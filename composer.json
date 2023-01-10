@@ -1,7 +1,7 @@
 {
-  "name": "syntax/steam-api",
+  "name": "cnhmau/steam-api",
   "description": "A steam-api client for Laravel 6+",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "license": "MIT",
   "authors": [
     {
